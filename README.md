@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meraj</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haquedot&label=Profile%20views&color=0e75b6&style=flat" alt="haquedot" /> </p>
 
+- Working on <a href="https://github.com/haquedot/tripsmart" target="_blank">TripSmart</a>
+
 - 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **haquedot@gmail.com**
