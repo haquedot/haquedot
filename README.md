@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Frontend (React/Next.js) | Backend (Node.js)</h3>
 
 <p align="center">
-  🚀 Building scalable web apps with clean UI, strong backend, and production-ready code.
+Building scalable web apps with clean UI, strong backend, and production-ready code.
 </p>
 
 <p align="center">
@@ -11,30 +11,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💻 Software Engineer with experience in **Frontend + Full Stack development**
-- ⚡ Skilled in **React.js, Next.js, Tailwind CSS, Node.js, Express.js**
-- 🔥 Built dashboards, analytics viewers, and scalable UI systems
-- 🌱 Currently exploring deeper **Backend Development & System Design**
-- 📫 Reach me at: **haquedot@gmail.com**
+- Software Engineer with experience in **Frontend + Full Stack development**
+- Skilled in **React.js, Next.js, Tailwind CSS, Node.js, Express.js**
+- Built dashboards, analytics viewers, and scalable UI systems
+- Currently exploring deeper **Backend Development & System Design**
+- Reach me at: **haquedot@gmail.com**
 
 ---
 
 ## 🏢 Experience
 
-### 🚀 Frontend Developer Intern — Lincode (Remote)
+### Frontend Developer Intern — Lincode (Remote)
 - Built **dark mode + multi-brand theming**
 - Developed reusable **graphs & charts** using Recharts / Highcharts
 - Implemented drag-and-drop analytics viewer using **dnd-kit**
 - Improved core flows: filters, subscription system, modals, steppers, QA
 
-### 🌍 Frontend Developer Intern — WhatBytes (Remote)
+### Frontend Developer Intern — WhatBytes (Remote)
 - Worked on live product **Cura Care (curacare.in)**
 - Integrated analytics using **PostHog, Google Analytics, Facebook Pixel**
 - Developed dynamic slot management system for booking workflows
 
-### 🏛 Intern — Ministry of Electronics & IT (Hyderabad)
+### Intern — Ministry of Electronics & IT (Hyderabad)
 - Built CMS dashboard for **eDeekshaam**
 - Developed responsive pages and interactive educational games
 - Worked closely with designers and backend teams
@@ -44,23 +44,23 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📌 Matchwize (Resume Analyzer)
-🔗 https://www.matchwize.com/  
+### Matchwize (Resume Analyzer)
+https://www.matchwize.com/  
 - Resume vs Job Description match scoring
 - Integrated **Gemini API** for resume insights and suggestions  
 **Tech:** Next.js, Tailwind CSS, Node.js, Express.js, Supabase
 
-### 🤝 MANUU Connect
+### MANUU Connect
 - Backend Developer for community platform:  
-  🌐 https://www.manuuconnect.in/
+  https://www.manuuconnect.in/
 - Built APIs for **authentication** and user management
 - Architected **bootcamp workflow APIs** (registration, onboarding, participants)
 - Helped organize university events and bootcamps
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p align="left">
@@ -89,7 +89,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/haquedot" target="_blank">
@@ -108,7 +108,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haquedot&theme=radical" />
@@ -116,7 +116,7 @@
 
 ---
 
-<h3 align="center">⚡ Activity Graph</h3>
+<h3 align="center">Activity Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haquedot&theme=github-compact"/>
 </p>
