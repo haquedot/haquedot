@@ -1,5 +1,8 @@
 # Hi 👋, I'm Merajul Haque
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haquedot&label=Profile%20views&color=0e75b6&style=flat" alt="haquedot" /> </p>
+
+
 Software Developer  
 React • Next.js • Node.js • Tailwind CSS  
 
