@@ -1,7 +1,7 @@
 # Hi 👋, I'm Merajul Haque
 
-💻 Software Developer  
-⚡ React • Next.js • Node.js • Tailwind CSS  
+Software Developer  
+React • Next.js • Node.js • Tailwind CSS  
 
 ---
 
@@ -10,7 +10,7 @@
 - Building clean and scalable web applications  
 - Focused on frontend performance + backend logic  
 - Exploring backend systems & system design  
-- 📩 haquedot@gmail.com  
+- haquedot@gmail.com  
 
 ---
 
@@ -59,4 +59,4 @@ https://www.matchwize.com/
 
 ---
 
-⭐ Focused on building real-world, production-ready applications
+Focused on building real-world, production-ready applications
