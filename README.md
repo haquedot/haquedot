@@ -63,3 +63,6 @@ https://www.matchwize.com/
 ---
 
 Focused on building real-world, production-ready applications
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haquedot&" alt="haquedot" /></p>
+
